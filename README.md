@@ -11,7 +11,9 @@ Link: _https://github.com/anujvyas/Natural-Language-Processing-Projects/tree/mas
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
-• A glimpse of the web app:
+## note
+
+the herouku app deplyoment link is currently not working due to server error you can simply run this project on your local machine using anaconda prompt by typing python app.py,then it simply run. 
 
 
 
